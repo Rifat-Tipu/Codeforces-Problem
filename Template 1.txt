@@ -4,7 +4,7 @@
 
 #include<bits/stdc++.h>
 using namespace std;
-#define e endl
+#define e "\n"
 #define ll int64_t
 #define ld long double
 #define pi 3.1415926535897932384626433832795l
